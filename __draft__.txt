@@ -1,0 +1,22 @@
+DSS simulaiton Mode: 
+        1 - Snapshot (Default),
+        2 - Daily,     
+        3 - Yearly (follow Yearly curve),
+        4 - DIrect,
+        5 - DUtycycle,
+        6 - Time, ( see LoadShapeClass option)
+        7 - DYnamic,  ( see LoadShapeClass option)
+        8 - Harmonic,
+        9 - HarmonicT,  (sequential Harmonic Mode)
+        10 - M1 (Monte Carlo 1),
+        11 - M2 (Monte Carlo 2),
+        12 - M3 (Monte Carlo 3),
+        13 - Faultstudy,
+        14 - MF (monte carlo fault study)
+        15 - Peakday,
+        16 - LD1 (load-duration 1)
+        17 - LD2 (load-duration 2)
+        18 - AutoAdd (see AddType)
+
+
+
